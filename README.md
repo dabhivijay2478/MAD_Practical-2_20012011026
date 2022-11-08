@@ -20,3 +20,8 @@ onStop
 onRestart
 
 ![image](https://user-images.githubusercontent.com/80666494/187067668-be9c8497-63b4-4395-a6ce-82f5f9e04955.png)
+
+logcat
+
+![image](https://user-images.githubusercontent.com/80666494/200487933-d63f88fc-8cd5-4a03-82f5-cb9e4edaab7e.png)
+
